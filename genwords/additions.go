@@ -269,4 +269,5 @@ tutorual->tutorial
 unintuive->unintuitive
 writting->writing
 Euclidian->Euclidean
+amoutn->amount
 `
